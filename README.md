@@ -1,5 +1,7 @@
-| Alexander FreundliebYingsiu LauIM18ADatum | ![](RackMultipart20200912-4-12t8r8b_html_c67fa8fda247eb2c.jpg) |
-| --- | --- |
+Alexander Freundlieb
+Yingsiu Lau
+IM18A
+
 
 # Wetter App
 
