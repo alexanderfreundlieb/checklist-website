@@ -38,8 +38,8 @@ Die Farben konnten nur in den Einstellungen geändert werden, jedoch wurden die 
 Tasks konnten als erledigt markiert werden, jedoch wurde dies auch nirgends abgespeichert.
 * Checklisten Favorisieren <br>
 Da wir bereits sehr viel aufwand reinstecken mussten um unser Projekt rechtzeitig fertig zu stellen, nahmen wir dieses Ziel raus.
-<br>
-<br>
+
+
 Im grossen und ganzen würde ich aber unser Projekt als erfolgreich ansehen da wir die meisten und die wichtigsten Ziele erreicht haben und unsere Checkliste natürlich auch funktioniert.
 
 ## Erkenntnisse
